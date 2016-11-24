@@ -5,7 +5,7 @@ Við höldum að meðal aldur þeirra sem spila GTA sé 8-25 og megnið af þeim
 
 GTA1:(mynd) GTA2:(mynd) GTA3:(mynd) GTA 4:(mynd) GTA5:(mynd)
 
-Framtíðarhorfur leikjaseríunnar eru bjartar. GTA V var eitt af mest seldu leikjum allra tíma og leikurinn er enþá oft á top 5 sellers á Steam.
+Framtíðarhorfur leikjaseríunnar eru bjartar. GTA V er í top 4 mest seldu leikjum allra tíma og hann er enþá mjög mikið spilaður
 
 
 
@@ -33,3 +33,4 @@ https://www.youtube.com/watch?v=tAeIP_ToyXw
 http://gtaforums.com/topic/508061-average-age-of-gta-players/
 https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)
 https://en.wikipedia.org/wiki/DMA_Design
+https://en.wikipedia.org/wiki/List_of_best-selling_video_games
