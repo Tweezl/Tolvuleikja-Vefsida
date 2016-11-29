@@ -26,7 +26,7 @@ Framtíðarhorfur leikjaseríunnar eru bjartar. GTA V er í top 4 mest seldu lei
 
 
 
-
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 
 Heimildaskrá:
@@ -35,3 +35,4 @@ http://gtaforums.com/topic/508061-average-age-of-gta-players/
 https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)
 https://en.wikipedia.org/wiki/DMA_Design
 https://en.wikipedia.org/wiki/List_of_best-selling_video_games
+
