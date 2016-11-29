@@ -26,7 +26,6 @@ Framtíðarhorfur leikjaseríunnar eru bjartar. GTA V er í top 4 mest seldu lei
 
 
 
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 
 Heimildaskrá:
