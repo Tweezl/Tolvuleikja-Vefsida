@@ -20,7 +20,7 @@ Framtíðarhorfur leikjaseríunnar eru bjartar. GTA V er í top 4 mest seldu lei
 
 
 
-
+https://www.youtube.com/watch?v=gjUg8Z56D7I
 
 
 
