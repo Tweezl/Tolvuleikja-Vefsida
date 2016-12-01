@@ -6,7 +6,7 @@ Samkvæmt umræðum á netinu byrjuðu margir að spila leikina í kringum 8 til
 Þróun leiksins:
 GTA1:(mynd) GTA2:(mynd) GTA3:(mynd) GTA 4:(mynd) GTA5:(mynd)
 
-Framtíðarhorfur leikjaseríunnar eru bjartar. GTA V er í top 4 mest seldu leikjum allra tíma og hann er enþá mjög mikið spilaður.
+Framtíðarhorfur leikjaseríunnar eru bjartar. GTA V er í top 4 mest seldu leikjum allra tíma og hann er enþá mikið spilaður víða á heimsvísu.
 
 
 
