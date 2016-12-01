@@ -36,3 +36,7 @@ https://en.wikipedia.org/wiki/DMA_Design
 https://en.wikipedia.org/wiki/List_of_best-selling_video_games
 https://www.youtube.com/watch?v=gjUg8Z56D7I
 
+
+
+
+http://tsuts.tskoli.is/2t/1609002880/GrandTheftAuto/GTA.html
