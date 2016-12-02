@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background: white url(../GrandTheftAuto/images/gtalogo2.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+body {
+	overflow-x: hidden;
+	font-family: 'Roboto', sans-serif;
+}
+
+img {
+
+}
+
+header {
+	text-align: center;
+
+}
+
+p { 
+	font: 15px/2;
+	margin: 0 0 10px 0; 
+	text-indent: 30px; 
+}
+
+.page-wrap { 
+	width: 600px; 
+	margin: 50px auto; 
+	padding: 20px; 
+	background: white;
+	border-radius: 1em; 
+	text-align: center;
+}
+
+
